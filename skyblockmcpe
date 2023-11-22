@@ -31,18 +31,18 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 1",
+      "url": "https://modcraft.su/poload/one-block-1_18_12-amgg.mcworld",
+      "path": "Download/one-block-1_18_12-amgg.mcworld",
+      "image": "https://fmcpe.com/uploads/posts/2021-08/1628675089_one-skyblock-1.jpg",
+      "title": "One Skyblock map",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     },
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 3",
+      "url": "https://modcraft.su/poload/Mr.%20Greens%20Skyblock%201.19.mcworld",
+      "path": "Download/uniskyblockmap.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2022-07/skyblock-4.jpg",
+      "title": "Universal Skyblock map",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
